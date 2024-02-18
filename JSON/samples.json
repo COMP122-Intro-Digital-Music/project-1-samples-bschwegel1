@@ -1,0 +1,20 @@
+[
+  {
+    "name": "animalthemesong",
+    "file": "samples/animalthemesong.mp3",
+    "bpm": "120",
+    "loop": "9.6"
+  },
+  {
+    "name": "newgirlinmath",
+    "file": "samples/newgirlinmath.mp3",
+    "bpm": "120",
+    "loop": "2.2"
+  },
+  {
+    "name": "youknowher",
+    "file": "samples/youknowher.mp3",
+    "bpm": "120",
+    "loop": "1.9"
+  }
+]
