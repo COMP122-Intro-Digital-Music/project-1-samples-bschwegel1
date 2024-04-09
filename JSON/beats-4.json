@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pattern 1",
+    "pitch": "F4",
+    "pattern": "1000"
+  },
+  {
+    "name": "Pattern 2",
+    "pitch": "B3",
+    "pattern": "1010"
+  },
+  {
+    "name": "Pattern 3",
+    "pitch": "C4",
+    "pattern": "0010"
+  }
+]
